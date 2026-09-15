@@ -1,0 +1,5 @@
+Ouvrir Git dans un dossier (D1= Multiburo, D2= Scrabble, D3= Astroshift)
+git clone https://github.com/levilainmathias-sudo/Epreuves_Finale.git
+Ouvrir Git dans le dossier créer
+git branch [nom en fonction]
+git checkout pour y aller
